@@ -1,0 +1,73 @@
+
+li{
+  list-style-type: none;
+ text-decoration: none;
+ display: inline-block;
+ padding: 20px;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+ul{
+  background-color: bisque;
+  margin: 0% 10%
+}
+
+#men-section{
+  margin: 3% 10%;
+  
+  
+}
+
+.col-item{
+  width: 25%;
+  height: 200px;
+  background-color: red;
+  margin-left: 50px;
+  display: inline-block;
+}
+
+img{
+  width: 100%;
+}
+
+.cart{
+  background-color: orange;
+  border-radius: 5px;
+  margin-right: 15px;
+  border-color: black;
+  height: 25px;
+}
+
+.buy-now{
+  background-color: green;
+  color: white;
+  border-radius: 5px;
+  margin-right: 15px;
+  border-color: black;
+  height: 25px;
+}
+
+#bottom-section{
+  padding: 5% 15%; 
+  text-align: center;
+}
+
+footer{
+  margin: 2%;
+  text-align: center;
+}
+
+.first-role{
+    background-color:beige
+}
+
+.img-m1{
+  display: inline-block;
+  height: 15%;
+  width: 30%;
+  margin-left: 5%;
+}
